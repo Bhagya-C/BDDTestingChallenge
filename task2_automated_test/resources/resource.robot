@@ -1,6 +1,6 @@
 *** Settings ***
 Library           SeleniumLibrary
-Library           /Users/rameshkumar/Desktop/Mythili/BDDTestingChallenge-2-2/automated_test/libraries/chrome_options.py
+Library           ./chrome_options.py
 
 *** Variables ***
 ${BASE_URL}=   https://www.saucedemo.com
